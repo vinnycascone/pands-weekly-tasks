@@ -18,7 +18,7 @@ def sqrt(a, tolerance=1e-7):
         x = next_x
 
 
-number=float(input('enter a positive nnumber to find a square root of: '))
+number=float(input('enter a positive number to find a square root of: '))
 approximate_sqrt = sqrt(number)
 
 
